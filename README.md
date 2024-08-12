@@ -6,4 +6,4 @@ estou estudando no alura
 
 :]
 
-1[](https://media.tenor.com/JTPJUAJHAyYAAAAj/duck-ente.gif)
+1[(https://media.tenor.com/JTPJUAJHAyYAAAAj/duck-ente.gif)]
